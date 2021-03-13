@@ -1,0 +1,7 @@
+C:\Users\Kinga\source\repos\SI1\SI1\bin\Debug\SI1.exe.config
+C:\Users\Kinga\source\repos\SI1\SI1\bin\Debug\SI1.exe
+C:\Users\Kinga\source\repos\SI1\SI1\bin\Debug\SI1.pdb
+C:\Users\Kinga\source\repos\SI1\SI1\obj\Debug\SI1.csprojAssemblyReference.cache
+C:\Users\Kinga\source\repos\SI1\SI1\obj\Debug\SI1.csproj.CoreCompileInputs.cache
+C:\Users\Kinga\source\repos\SI1\SI1\obj\Debug\SI1.exe
+C:\Users\Kinga\source\repos\SI1\SI1\obj\Debug\SI1.pdb
